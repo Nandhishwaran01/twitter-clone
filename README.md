@@ -1,7 +1,5 @@
 # MERN Stack Project: Build and Deploy a Twitter Clone From Scratch | JWT, Socket.io
 
-
-
 Some Features:
 
 -   ⚛️ Tech Stack: React.js, MongoDB, Node.js, Express, Tailwind

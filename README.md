@@ -1,4 +1,4 @@
-(This project is based on an open-source Twitter clone by Burak (MIT licensed). I customized the design, optimized the backend, and added new features like notifications and profile editing.)
+(This project is based on an open-source Twitter clone by Burak (MIT licensed). I customized the design, optimized the backend, and added new features like notifications and profile editing etc.)
 # MERN Stack Project: Build and Deploy a Twitter Clone From Scratch | JWT, Socket.io
 
 Some Features:
